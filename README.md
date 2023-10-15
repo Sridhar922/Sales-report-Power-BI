@@ -37,3 +37,5 @@
 # 9.Monitor Usage and Performance:
 * Use the Power BI Service to monitor how users are interacting with your dashboard and analyze its performance.
 
+
+![image](https://github.com/Sridhar922/Sales-report-Power-BI/assets/122592164/5c9c5d0c-3ffa-4367-b499-2c9657e86479)
